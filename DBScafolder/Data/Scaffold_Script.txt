@@ -1,0 +1,4 @@
+﻿Scaffold-DbContext "server=10.65.100.108;Database=eBA;User Id=sa; password=EbaWF.@; Integrated Security=false;MultipleActiveResultSets=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data/Entities -Tables "codeN_E_Invoice","codeN_E_Invoice_Line","codeN_E_Invoice_Line_Tax","codeN_E_Invoice_Tax" -ContextDir Data -Context Context 
+
+
+
